@@ -1,9 +1,7 @@
 # cpp_picine
 
-## Description
-
-Introduction into C++ language
-Modules:
+## Introduction into C++ language
+Modules:  
 0. First programm;
 1. Inheritance and methods override;
 2. Custom operators implementation (+, -, >, <, etc);
